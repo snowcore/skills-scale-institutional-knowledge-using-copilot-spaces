@@ -45,6 +45,8 @@ Our project lifecycle consists of five key phases, each with specific processes 
 
 - **[Risk Management and Communication](octoacme-risks-and-communication.md)** - How to identify, assess, and mitigate risks, plus stakeholder communication templates and escalation paths.
 
+- **[Cross-Functional Workflows & Communication](octoacme-cross-functional-workflows.md)** - Detailed workflows, communication patterns, and checklists for effective collaboration across roles including feature development, design handoffs, releases, and escalation paths.
+
 ## Process Summary
 
 ### Key Workflows
@@ -60,11 +62,15 @@ OctoAcme's project workflows are organized around the following practices:
 
 ### Personas and Roles
 
-Three primary roles collaborate to deliver projects:
+Seven primary roles collaborate to deliver projects:
 
 - **Project Manager (PM)**: Coordinates delivery, manages schedules and risks, facilitates communication
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, measures success
 - **Developers**: Implement features, write tests, collaborate on design, estimate work
+- **UX Designer**: Research user needs, design interfaces, ensure accessibility and usability
+- **DevOps Engineer**: Build CI/CD pipelines, manage infrastructure, ensure reliable deployments
+- **Support Lead**: Manage customer support, triage issues, bridge customer needs with product teams
+- **Data Analyst**: Track metrics, analyze experiments, provide insights to inform decision-making
 - **QA/Testing**: Validate quality and acceptance criteria
 - **Stakeholders**: Provide inputs, approvals, and feedback
 
